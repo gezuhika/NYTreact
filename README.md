@@ -14,6 +14,12 @@
 
 [React Forms](https://reactjs.org/docs/forms.html)
 
+[How to Update Parent's State](https://stackoverflow.com/questions/35537229/how-to-update-parents-state-in-react)
+
+[React, Redux, React-Router](http://jpsierens.com/simple-react-redux-application/)
+
+[React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+
 [MERN Stack Tutorial](https://appdividend.com/2017/06/28/mern-stack-tutorial/)
 
 [Combining React with Socket IO](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
